@@ -1,7 +1,7 @@
 DeepFake Detection
 ===
 
-DeepFakes have been in the news for over an year now, mostly for all the wrong reasons. This repository is home to implementation of various deepfake detection algorithms tested on [FaceForensics++ Dataset](https://github.com/ondyari/FaceForensics).
+DeepFakes have been in the news for over an year now, mostly for all the wrong reasons. This repository is home to implementation of various deepfake detection algorithms tested on Google AI's [Deep Fake Detection Dataset](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html).
 
 
 ## Algorithms
